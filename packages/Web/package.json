@@ -10,9 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@expo-monorepo/shared": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@expo-monorepo/shared": "*"
+    "react-native-web": "^0.19.9"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
